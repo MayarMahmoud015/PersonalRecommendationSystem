@@ -50,3 +50,7 @@ The system provides:
 This project is licensed under the MIT License.
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Kaggle Code Link 
+You can find the code of the project on Kaggle from that link:
+[Kaggle](https://www.kaggle.com/code/mayarmahmoud015/personal-recommendation-system)
